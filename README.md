@@ -1,5 +1,5 @@
 # SERIE TEMPORELLE
-Partie I : Analyse préliminaire de données météo (humidité)
+Partie I : Analyse préliminaire de données météo (humidité) 
 On considère le fichier de données nommé humidity_ts_data.csv contenant les données journalières météorologiques d’un certain pays du 1er janvier 2013 au 1er janvier 2017 (données
 provenant de Kaggle). Notre objectif dans cette première partie du projet est d’analyser (graphiquement et numériquement) ces données temporelles afin de pouvoir faire une bonne prédiction
 sur les jours, mois, voire années qui suivent la fin de la série (c’est à dire, des prédictions au-delà
